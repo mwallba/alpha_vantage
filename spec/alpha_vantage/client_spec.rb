@@ -1,5 +1,7 @@
 require 'spec_helper'
 
-RSpec.describe Client do
-  pending
+module AlphaVantage
+  RSpec.describe Client do
+    pending
+  end
 end
